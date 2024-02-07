@@ -1,0 +1,46 @@
+font-family: Arial;
+font-size: 12px;
+background-color: aqua;
+color: blueviolet;
+
+font-size: 12px;
+margin-top: 20pt;
+margin-bottom: 20pt;
+margin-left: 20pt;
+margin-right: 20pt;
+
+}
+h1 { 
+font-family: 'Times New Roman';
+    color:cornflowerblue; 
+font-size: 25px; 
+} 
+
+
+h2{ 
+
+font-family:Georgia;
+color:darkgreen;
+font-size: 20px;
+} 
+
+h3{
+
+font-family: Verdana;
+color:cadetblue;
+font-size: 15px;
+}
+
+a:link {
+    color:brown;
+    text-decoration: none;}
+    a:visited {
+    color: black;}
+    a:hover {
+    color:blanchedalmond;
+
+    color: rebeccapurple
+}
+    text-decoration: underline;}
+    a:active {
+    color: darkcyan;}
